@@ -1,1 +1,25 @@
 // day-5 note of html
+input tag , textarea tag, button tag
+
+1 input tag=>
+-> itput tag is the self closing tag , these tag doesn't have end tag.
+->type attribute in input tag tells the browser which type of input is taken.
+-> in checkox property we can tick all the option
+
+2 textarea->
+we use textarea tag for long input or long review
+->cols ->weadth rows-> hight 
+-> cols and rows will dised the initial size of textare while we open page.
+
+
+4. form tag:
+ -> all the input tag will be written as a children of form tag.
+ -> action attribute in form tag is-> usef for to link where the form is submitted
+ -> action-> it will contain address where our data will send.
+ -> method will decide how data will be send
+
+
+ 5. Table tag
+ -> row 1=> |cell1 , cell2, cell3|
+ -> row 2=> |cell1 , cell2, cell3|
+  
