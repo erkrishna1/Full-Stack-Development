@@ -1,0 +1,13 @@
+//note day 4
+div=>
+ this tag is used to create division in our page, creating different area.
+ div tag always start from new line this is also called as a block level element
+ ->if we apply any property in 1 div tag then it will apply all the property in that div .
+ ->div tag take entire width of the screen
+ ->hidden property in div tag-> that will hide that div
+
+ span tag =>
+ ->span tag doesn't start with new line.
+ -> we generally use span tag for highlight certain area of text.
+ ->this tag only take width of the content/text not entire screen and this property make the span tag inline element.
+ -> span tag property only applyied to the text or children of span tag -> not to the other tag or div

@@ -1,0 +1,4 @@
+// note day-6 note
+ List ->
+  1. ordered list 
+  2. unorder list

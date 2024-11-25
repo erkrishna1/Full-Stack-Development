@@ -1,0 +1,4 @@
+// Note of day-3 in html 
+!DOCTYPE html => tells the browser this document belong to html5
+
+1> Extension tells us what kind of file it is. 

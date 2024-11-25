@@ -1,0 +1,30 @@
+Note of day 2 
+#  STRUCTURE OF WEB PAGE (HTML) -->  STYLE OF webpage (CSS, Bootstrap) --> Make it functional ( javascript)--> Backend --> Database
+
+HTML => Hypertext Markup Language
+
+Website => Collection of webpage or 
+Hyperlinks=> Hyperlink is the something that helps us to link these page, link
+Markup language=> Refers to the code or the tag that helps us to create structure of our webpage
+Syntax => It is the way of writing a code in any language by following the rule of the that specific language.
+
+syntax of Html
+
+<opening tag>=><tagname>
+  visible part of tag 
+</closing tag> => </tagname>
+
+Threee main tag of Html
+<html>
+  <head> This tag will contain information about our webpage  </head>
+   1. Information about the page
+
+  <body> 
+   All the visible contain are here
+    
+    all the info/txt present on the page over written over here
+  </body>  
+   
+  2. Information on the page. 
+
+</html>
