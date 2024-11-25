@@ -12,3 +12,8 @@ html 5
       ->it was not mobile friendly and html5 it is
       ->didn't have drag and drop efects but html5 it has drag drop effect.
       ->audios and videos were not possible but html5 we have audios and videos.
+
+
+      Way to add the path/how to add path and how to find path  
+        (.) => evening batch folder /root folder 
+         ./ => salahs jumpt to audio folder => ./audio/music
