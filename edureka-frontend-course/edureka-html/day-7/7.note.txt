@@ -1,0 +1,14 @@
+// html5 was developed by whatwg (web hypertext application technology working group)and w3c (world wide web consortium)
+
+html 5
+ -> it reduced the overlap between html css and javascript.
+ -> it prometed certain tag it make responsiveness.
+
+    --> <svg> scalabel vector graphics and <canvax>
+      number, date calendar, time
+      semantic elements : header, footer, article, section
+
+      html4 and html5
+      ->it was not mobile friendly and html5 it is
+      ->didn't have drag and drop efects but html5 it has drag drop effect.
+      ->audios and videos were not possible but html5 we have audios and videos.
