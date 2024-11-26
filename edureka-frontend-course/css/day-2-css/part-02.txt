@@ -1,0 +1,39 @@
+Edureka course day-11, class-09 (Css-02, Thursday, 18/01/2024)
+
+
+# SPECIFICITY/PRIORITY =>
+    
+    Inline css > Internal css > External css
+
+
+# SELECTORS =>
+
+    i. Selectors are names that we use to select our elements which helps us to style them or selecting to add css to them.
+        * Tag name selector.
+        * Id selector: id is unique.
+        * Class selector: class could be belog to multiple elements for add same style or multiple style.
+
+# PRIORITY OF SELECTORS =>
+
+       --->  ID > CLASS > ELEMENT 
+        class Name selector >tagName selector. 
+
+        the style what is last applied that will change 
+
+   -->     inline css >Id selector>Class Selector > tageName selector
+
+   --->inline css -->internal >> External>
+    it reads top to buttom
+
+    ///universal selector-
+      if we want all of them have same style then we use 
+
+      use only for same fon't family
+      *{
+
+      }
+
+      Grouping selector?
+       div, p{
+        background-color:green;
+       }
