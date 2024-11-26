@@ -8,4 +8,21 @@ Edureka course day-10, class-08 (Css-01, Wednesday, 17/01/2024)
     iii. 3 ways to write css code:
         * Inline css: The css code that we write using the style attribute of an element in k/a inline css, the css written in same line as our tags.
         * Internal css: The css code that we write using style tag inside of the head tag is k/a internal css.
-        * External css: the css code that we write in another file and link that file to our html file is k/a external css. Outside our index.html file iin some other file that file in which we will write our css code will have .css extension.
+        * External css: the css code that we write in another file and link that file to our html file is link external css. Outside our index.html file iin some other file that file in which we will write our css code will have .css extension.
+
+      self
+        // css is used to style to our structure.
+
+        how to style any element in css->
+           Inorder to style any eleme with css we have the select the element through selector.
+
+           1. selector:
+            1.>  id and class selector
+             id ->identity, so for a html element its id value will always be unique , not two element can have same id value 
+
+             2->  class -> it helps us to identify the element but this value is not unique  to a element -> two or more element can have same class.
+
+3-> tagname selector
+    tagname{
+        properties
+    }
