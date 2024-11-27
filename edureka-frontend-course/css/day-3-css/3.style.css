@@ -1,0 +1,72 @@
+/* css for day-3-css and day-9 */
+
+/* padding -->it is the space between contain and border of the container  */
+
+#background-img-div{
+    background:url(../img/3.janki-temple.jpg);
+    /* if the background image is not fealing the height and widht then it will start to repat */
+    /* height: 400px;
+    width: 7500px; */
+    height:400px;
+    /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+/* box model */
+/* margin is the space between border and external rigion */
+
+/* padding -->it is the space between contain and border of the container  */
+.box1{
+    height:200px;
+    width:200px;
+    background-color:green;
+    margin-top:40px;
+    margin-left: 38px;
+    margin-bottom: 20px;
+    margin-right:48px;
+    padding-top:50px;
+    /* padding-> work same as margin */
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+.box2{
+    background-color:brown;
+    height:300px;
+    width:300px;
+    margin:40px 38px 30px 80px;
+    padding: 80px;
+    color:white;
+}
+
+.box3{
+    background-color: red;
+    height: 100px;
+    width:100px;
+    margin:20px 30px;
+    padding:400px;
+}
+
+.box4{
+    background-color: bisque;
+    height: 80px;
+    width:80px;
+    margin:75px;
+}
+.box5{
+    background-color: aquamarine;
+    height: 90px;
+    width: 80px;
+    margin: 40px 30px 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+/* padding -->it is the space between contain and border of the container  */
+
+
