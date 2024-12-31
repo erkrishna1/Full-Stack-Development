@@ -1,0 +1,9 @@
+Edureka course day-15, class-11 (Css-04, monday, 30/12/2024)
+
+Block level element , This is inline element
+display properties :->( block , inline , inline-block , none and flex )
+
+where does it start?
+how much width it take ?
+   --> Inline tag always take width of it contain
+how the style aplied ?
