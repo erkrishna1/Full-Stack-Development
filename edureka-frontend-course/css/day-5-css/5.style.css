@@ -1,0 +1,88 @@
+.parent-container{
+    display:flex;
+    /* flex-direction:column; */
+    /* flex-direction:column-reverse; */
+    /* flex-direction: row; */ /*this is default */
+    flex-direction:row-reverse;
+
+}
+
+.child-container{
+    height:200px;
+    width:200px;
+    background-color:green;
+    border:2px solid red;
+    /* margin:10px; */
+}
+
+
+/* second example */
+.parent-2{
+    height: 200px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.child-2{
+    background-color:yellowgreen;
+    height:100px;
+    width:100px;
+    border:2px solid black;
+}
+
+/* third div- */
+.third-container{
+    background-color: brown;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.third-child{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+/* forth child */
+.forth-container{
+    background-color: yellow;
+    display: flex;
+    flex-direction:row;
+    /* justify-content: space-between; */
+    /* justify-content:space-around; */
+    justify-content: space-evenly;
+    align-items: center;
+    height:400px    
+}
+
+.forth-child{
+    background-color: aqua;
+    height: 100px;
+    border: 2px solid black;
+
+}
+
+/* flex-wrap property */
+.fifth-container{
+    background-color: rgb(255, 185, 127);
+    height: 500px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.fifth-child{
+    background-color: blue;
+    height:100px;
+    border: 2px solid black;
+
+
+}

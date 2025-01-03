@@ -1,0 +1,12 @@
+//css day-5 2025 01 jan day-12
+flexbox is the display property and it move contain horizontaly and vertically
+
+-by default flex-direction is in row
+-> it will be in horizontal direction and vertical direction
+->all of these property will apply to parent container.
+
+-> when our flex-direction is row then justify content it works along the horizontal axis and align items work along vertical axis but
+
+but when flex direction is column, justify content -vertical axis and align item work horizontal axis.
+
+height of child div will be the height of parent div if parent div dosen't have height.
