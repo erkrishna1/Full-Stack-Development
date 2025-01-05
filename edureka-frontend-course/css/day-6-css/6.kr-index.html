@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position property</title>
+    <style>
+        .static-pr{
+            background-color: yellowgreen;
+            border:2px solid black;
+            position: static;
+            top:2px;
+            bottom:40px;
+            height: 100px;
+            width: 100px;
+            
+        }
+
+        .relative-pr{
+            background-color: brown;
+            height: 100px;
+            width:100PX;
+            position:relative;
+            top:40px;
+            left:80px;
+            /* top:43px;   it won't work */
+            /* top:move element towards bottom from absolute position */
+            /* left:move element towards left to right */
+            /* right:move element towards right to left */
+            /* bottom:move element towards bottom to top */
+
+            /* css priortize  top  and left over bottom and right */
+        }
+       
+        .absolute-pr{
+            background-color: yellowgreen;
+            height: 200px;
+            width: 200px;
+            position: absolute;
+            top: 400px;
+            left: 300px;
+        }
+
+        .fixed-pr{
+            background-color: rgb(160, 109, 255);
+            height: 50px;
+            width: 100px;
+            position: fixed;
+            top: 100px;
+            right: 70px;
+        }
+        body{height: 1500px;}
+        .sticky-pr2{
+            background-color: plum;
+            position:sticky;
+            top:0px;
+            height: 100px;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Static property </h1>
+    
+
+    <div class="static-pr">I'm Static Div</div>
+
+    <div class="relative-pr">I'm relative Div</div>
+    <div class="relative-pr">I'm relative Div</div>
+    <div class="absolute-pr">I'm absolute Div</div>
+    <div class="fixed-pr">Fixed Property</div>
+
+    <div class="sticky-pr2">Static property</div>
+</body>
+</html>

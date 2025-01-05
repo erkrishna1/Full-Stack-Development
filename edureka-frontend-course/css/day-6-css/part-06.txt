@@ -1,0 +1,17 @@
+Edureka course css-day6, class-13 (Css-06, sat, 04/01/2025)
+
+-->    <!-- 
+      Position property in css => It allows us to position our element as per our choice, it has several values, static, relative, fixed, absolute and sticky;
+
+      1. static => element will be positioned as per the flow of the page and these eleements can't be positioned using left, right , top and bottom properties.
+
+      2. relative => position my element relative to its original position, 
+
+      3. absolute => This will remove the element out of the flow of the page.
+
+      4. fixed => Fixed property make our element as fixed on the page but we can still use the top left right and bottom properties. 
+        
+    -->
+
+
+    position property allows us to control the position of the element on our page it have several value:->static, relative, absolute and static
