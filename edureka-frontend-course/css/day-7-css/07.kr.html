@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-7 css</title>
+    <style>
+        #div-1{
+            background-color: green;
+            height: 300px;
+            width: 300px;
+            position:absolute;
+            z-index: 1;
+        }
+
+        #div-2{
+            background-color: rgb(174, 219, 15);
+            height: 100px;
+            width: 400px;
+            position:absolute;
+            z-index: 2;
+            /* higher z-index will over lap the */
+        }
+
+    </style>
+</head>
+<body>
+    <div id="div-1">This is first div</div>
+    <div id="div-2">This is second div</div>
+</body>
+</html>
