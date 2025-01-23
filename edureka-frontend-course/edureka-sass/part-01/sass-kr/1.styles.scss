@@ -1,0 +1,16 @@
+$main-color-f:yellow;
+$size-a:40px;
+
+.class1{
+    background-color: $main-color-f;
+    height:100px;
+    width:95px;
+    font-size: $size-a;
+}
+
+.class2{
+    background-color: aqua;
+    height:200px;
+    width:200px;
+    font-size: $size-a*2;
+}
