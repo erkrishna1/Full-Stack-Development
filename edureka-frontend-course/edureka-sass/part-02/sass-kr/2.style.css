@@ -1,0 +1,62 @@
+.box1 {
+  background-color: orange;
+  height: 100px;
+  color: green;
+  width: 360px;
+  font-size: 50px;
+  margin: 10px;
+}
+
+.box2 {
+  background-color: black;
+  color: pink;
+  height: 100px;
+  width: 100px;
+  font-size: 80px;
+}
+
+.box3 {
+  background-color: pink;
+  font-size: 10px;
+  width: 100px;
+  height: 100px;
+  color: red;
+}
+
+.box4 {
+  background-color: orange;
+  font-size: 15px;
+  height: 100px;
+  width: 100px;
+}
+
+.box5 {
+  background-color: yellowgreen;
+}
+.box5 .p1 {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+}
+.box5 .p2 {
+  background-color: pink;
+  color: white;
+  font-size: 22px;
+}
+.box5 .p3 {
+  background-color: rgb(168, 141, 242);
+  color: rgb(200, 13, 13);
+  font-size: 22px;
+}
+.box5 .p4 {
+  background-color: rgb(168, 141, 242);
+  color: rgb(200, 13, 13);
+  font-size: 22px;
+  border: 2px solid yellow;
+}
+.box5 .p5 {
+  background-color: rgb(242, 171, 141);
+  color: rgb(82, 11, 159);
+  font-size: 24px;
+}
+/*# sourceMappingURL=2.style.css.map */

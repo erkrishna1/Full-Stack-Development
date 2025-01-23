@@ -1,0 +1,7 @@
+Edureka course day-23, class-16 (Saas-02, Tuesday, 24/01/2025)
+
+if else conditon of sass code
+
+//and -> both the condition are true then the and is true, otherwise false.
+
+//or->even one condition is true or is true / for false both the condition need to be false.
