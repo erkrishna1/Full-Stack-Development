@@ -1,0 +1,40 @@
+Edureka course day-24, class-17 (Saas-03, Wednesday, 31/01/2024)
+
+// mixin: These are chunks of css code that we can include in our sass code. They help us to by providing features such as modularity, reusability, and maintainability.
+
+ele1{
+    // css code
+    //css code
+}
+
+ele2{
+    // css code
+    //css code
+    // some other css as well
+}
+
+ele3{
+    // css code
+    //css code
+    // some other css as well
+}
+
+How to create mixin
+//mixin without parameter
+@mixin myDesign {
+    background-color:red;
+    height:100px;
+    width:100px;
+
+}
+
+div{
+    @include myDesign();
+}
+
+mixin with parameter
+parameter:these are the value that we pass to our mixin. to use  -> it can be color, size, that we use in css
+
+@mixin myStyle($parameter,$parameter,$parameter....){
+    css code
+}

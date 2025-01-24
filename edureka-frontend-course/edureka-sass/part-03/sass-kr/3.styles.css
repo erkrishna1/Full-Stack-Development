@@ -1,0 +1,35 @@
+.class1 {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+}
+
+.class2 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  color: yellow;
+}
+
+.class3 {
+  background-color: pink;
+  height: 100px;
+  width: 100px;
+  color: yellowgreen;
+}
+
+.class4 {
+  background-color: aqua;
+  height: 100px;
+  width: 100px;
+  color: maroon;
+  font-size: 15px;
+}
+
+.class5 {
+  background-color: yellowgreen;
+  height: 100px;
+  width: 100px;
+  color: white;
+}
+/*# sourceMappingURL=3.styles.css.map */

@@ -1,0 +1,38 @@
+//@mixin creating mixin with @mixin and mixin name
+
+@mixin myDesign{
+    background-color: aqua;
+    height: 100px;
+    width:100px;
+
+}
+//for include to include mixin
+.class1{
+    @include myDesign();
+}
+
+//mixin with parameter
+
+@mixin myMixin($parameter1,$parameter2){
+    background-color: $parameter1;
+    height: 100px;
+    width: 100px;
+    color:$parameter2;
+}
+
+.class2{
+    @include myMixin(red,yellow )
+}
+
+.class3{
+    @include myMixin(pink,yellowgreen )
+}
+
+.class4{
+    @include myMixin(aqua,maroon );
+    font-size: 15px;
+}
+
+.class5{
+    @include myMixin(yellowgreen,white )
+}
